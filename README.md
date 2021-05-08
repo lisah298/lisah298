@@ -1,17 +1,17 @@
 # 👋 Hi, I’m Lisa
 I make software and science.
 
-### 👀 I’m interested in 
+#### 👀 I’m interested in 
 - coding in general
 - (Frontend) web technologies 
 - science, especially physics.
 
-## 👩‍💻 I usually work with
+### 👩‍💻 I usually work with
 - React and Typescript,
 - SCSS,
 - Express, Node.js and Mongo.DB
 
-## 🌱 I’m currently
+### 🌱 I’m currently
 - learning scientific python coding,
 - improving my backend skills and
 - studying biophysics.
