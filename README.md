@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Lisa
 I make software and science.
 
-## 👀 I’m interested in 
+### 👀 I’m interested in 
 - coding in general
 - (Frontend) web technologies 
 - science, especially physics.
