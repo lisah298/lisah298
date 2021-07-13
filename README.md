@@ -4,12 +4,13 @@ I make software and science.
 ### 👀 I’m interested in 
 - coding in general
 - (Frontend) web technologies 
-- science, especially physics.
+- science, especially physics
+- Data Science
 
 ### 👩‍💻 I usually work with
-- React and Typescript,
-- SCSS,
+- React, Typescript and SCSS,
 - Express, Node.js and Mongo.DB
+- Python 
 
 ### 🌱 I’m currently
 - learning scientific python coding,
